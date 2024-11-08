@@ -1,0 +1,1138 @@
+Please plan a weekly schedule for all 3 of my kids for the summer of 2024 (July 8 – August 23).  I would like them to be enrolled in camps most weeks.  Please choose the same 2 weeks for family time where they won’t be in camps.  These 2 weeks don’t have to be consecutive; just pick any two weeks for all 3 kids to be off at the same time.  Here is information about each kid so you can choose the best camps for them.  Tori is 16 (entering grade 12) and loves baking and dance.  Fiona is 12 (entering grade 8) and enjoys reading, writing, and soccer.  Gabe is 10 (entering grade 5) and loves martial arts, superheroes, and video games, especially Minecraft and Roblox.  They all love swimming.  I’m open to exploring other classes they may enjoy, but please make sure they each have at least 2 classes involving these above activities they love.  They should take a different class each week (no duplicates of the same class for the same kid).  Your output should be a matrix of each week of the summer by each kid, and what they are doing that week (either the title of the camp class they would enjoy, or a family time week where they are all off together).
+
+Here is the summer brochure you can use with the activity listings:
+
+ SCIENCE & ENGINEERING
+ Add Before & After Care
+to your child’s schedule
+for a full day of fun on campus!
+SEE PAGE 3!
+ HAVE QUESTIONS?
+Check out our
+KOC Parent Handbook
+ SCHOOLCRAFT.EDU/KOC
+ Physics Fun!: Grades 3 & 4
+ Better understand the world around you in this interactive play
+land. Discover the world of physics and laws of motion through
+exciting experiments and games. Build and launch a paper
+airplane, connect an electric circuit, play with white light and
+explore the universe. Learn while you play!
+ CES 8461  $249
+ 1 week MTWRF July 8 9 am-3 pm
+Sec. 939806 F150  C. Shiver
+ 1 week MTWRF July 22 9 am-3 pm
+Sec. 939833 F150  C. Shiver
+ 1 week MTWRF July 29 9 am-3 pm
+Sec. 939861 F150  C. Shiver
+ Robots Rule: Grades 3 & 4
+ Robots are used to clean, build, communicate, search and explore the
+world around you. Discover how robots work as you help dreamup,
+design, build and program a robot using LEGO® Mindstorms NXT and/
+ or EV3. See LEGO® Tetrix in action. Learn about different types of
+engineering as you perform a variety of robot experiments. Examine
+the history of robotics and find out how robots compete. At the end of
+this class you'll raise your fist and exclaim, "Robots rule!"
+ CES 8396  $279
+ 1 week MTWRF July 8 9 am-3 pm
+Sec. 939814 HS610  J. Scollon
+ 1 week MTWRF July 15 9 am-3 pm
+Sec. 939815 HS610  J. Scollon
+ 1 week MTWRF July 22 9 am-3 pm
+Sec. 939817 HS610  J. Scollon
+ 1 week MTWRF July 29 9 am-3 pm
+Sec. 939863 HS610  J. Scollon
+ 1 week MTWRF Aug 5 9 am-3 pm
+Sec. 939875 HS610  J. Scollon
+ NEW Science in Movies - Fact or Fiction:
+Grades 3 & 4
+ Do you ever wonder how realistic movies are? Want to learn
+more about the science behind some of the most popular and
+amazing scenes in movie history? If so, then join our science
+in movies camp! Learn how to explore the scientific truth of
+various movies such as Jurassic Park, Star Wars and ET. Use
+the scientific method to test if what you see in the movies are
+based on fact or fiction.
+CES 8560  $249
+ 1 week MTWRF Aug 5 9 am-3 pm
+Sec. 939804 F270  Staff
+ Non-Stop Science Experiments: Grades 3 & 4
+ All the time is the right time to explore science! Use the scientific
+method to do lots of mind-blowing, kid-tested experiments that
+answer everyday questions. See your world as a ginormous,
+fun-filled playground-laboratory. Roll-up your sleeves, put on your
+safety glasses and get ready to answer the question WHY?
+CES 8533  $249
+ 1 week MTWRF Aug 5 9 am-3 pm
+Sec. 939843 F150  Petersen-Price
+ 1 week MTWRF Aug 12 9 am-3 pm
+Sec. 939830 F150  C. Janes
+ Stop Motion Animation: Grades 3 & 4
+ Lights, camera, LEGO action! Use LEGO® Bricks to tell your story,
+complete with music, special effects and all your favorite LEGO®
+minifigure characters. Plan, script, stage, shoot, and produce your
+own mini-movie using Stop Motion Animation. Working as a team,
+students will use LEGO® components to build the set and props,
+then shoot their movie using a camera. Movie-making software
+will be used to add special effects, titles, credits and more. Each
+camper takes home a copy of their movie.
+ CES 3782  $275
+ 1 week MTWRF July 29 9 am-3 pm
+Sec. 939873 LA140  Staff
+ 1 week MTWRF Aug 5 9 am-3 pm
+Sec. 939898 LA140  Staff
+ 9
+ARTS & CULTURE
+ NEW Textile Fashion Illustration &
+Design: Grades 5 & 6
+ Gain fundamental knowledge of fashion textile and materials.
+Study fabrics, their properties and identification methods.
+Investigate different techniques for creating textiles,
+terminology and create fabric specimens (fabric swatches.)
+Explore different techniques for creating textiles such as dyeing
+and printing.
+CES 3846
+1 week
+Sec. 939809
+$249
+ MTWRF
+F370
+Aug 12
+9 am-3 pm
+M. Williams
+ Harry Potter: Centaurs,
+Dragons & More: Grades 5 & 6
+ Let your imagination take you on a journey. Sort into your
+houses to discover centaurs, dragons, house elves, owls,
+potions, spells and much more. Get ready for Harry Potter
+trivia and design a broom to play Quidditch. Paint your
+favorite dwelling, draw mythical creatures, and create your
+own wand!
+ CES 3818
+1 week
+Sec. 939897
+$249
+ MTWRF
+BTC215
+July 29
+9 am-3 pm
+J. Klein
+ Express Yourself: Grades 5 & 6
+ Explore your inner self using the arts. Discover multiple
+mediums for self-expression including painting, use of clay,
+acting, sketching, fashion, dance, music, and more. Whether
+it's silliness, joy, frustration etc. learn ways to express yourself
+during this creative arts week.
+ CES 3836
+GRADES 5 & 6
+ 1 week
+Sec. 939884
+$249
+ MTWRF
+BTC215
+Aug 5
+9 am-3 pm
+J. Klein
+ Anime Drawing & Cartooning: Grades 5 & 6
+ Learn to create original anime characters and draw your
+personal favorites! Use different styles and techniques for
+creating characters up close and in motion. Start by breaking
+images into whole shapes before drawing them. Create finished
+renderings while exploring tone, shading, dimension, proportion
+and more.
+CES 3819
+1 week
+Sec. 939887
+$249
+ MTWRF
+LA100
+Aug 5
+9 am-3 pm
+E. Tamulewicz
+ 1 week
+Sec. 939888
+MTWRF
+LA100
+Aug 12
+9 am-3 pm
+E. Tamulewicz
+ 3-Dimensional Art Sculptures: Grades 5 & 6
+ Experiment with a variety of materials to create one-of-a
+kind art sculptures. Use a variety of art mediums including:
+assemblage, plaster gauze, and more. Design an animal made
+from found objects, tape sculpture, plaster masks, and create
+many more art pieces ready for display.
+CES 3777
+1 week
+Sec. 939879
+$249
+ MTWRF
+F370
+Aug 5
+9 am-3 pm
+M. Pircer
+ Zombie Apocalypse
+Survival Training: Grades 5 & 6
+ Can you survive a zombie apocalypse? Discover the keys to
+survival while learning science, technology, engineering, math
+and of course, having a blast. Learn basic survival skills while
+racing to find a cure and get ready for battle. No zombie camp
+would be complete without the ultimate Nerf gun battle.
+ CES2 0118
+1 week
+Sec. 939881
+$249
+ MTWRF
+BTC300
+July 8
+9 am-3 pm
+G. Shumpert
+ 1 week
+Sec. 939870
+MTWRF
+BTC300
+Aug 5
+9 am-3 pm
+G. Shumpert
+ Add Before & After Care
+to your child’s schedule
+for a full day of fun on campus!
+SEE PAGE 3!
+ 10
+ HAVE QUESTIONS?
+Check out our
+KOC Parent Handbook
+ SCHOOLCRAFT.EDU/KOC
+ 734-462-4448 | SCHOOLCRAFT.EDU/KOC
+Master the Stage!
+Acting Camp: Grades 5 & 6
+ If having fun is your favorite thing to do, then this camp is for
+you. Turn your creative side loose as you do script writing,
+improvisation, movement and creative dramatics. Don't worry
+if you have no experience, everyone is welcome. Complete
+your theater experience with your acting debut - an informal
+production for family and friends on the last day.
+ CES 3700
+1 week
+Sec. 939858
+$249
+ MTWRF
+LA440
+July 29
+9 am-3 pm
+K. Glatz
+ Kids with Cameras: Grades 5 & 6
+ Whether you have been taking photos for a while, or are just
+picking up a digital camera for the first time - we want you!
+Open up a whole new world that screams "never bored." Start
+by learning photography basics. Then add some tricks and tips
+and get wild and creative. Fill your world with amazing new
+experiences as you go on photo shoots each day. Learn to use
+Photoshop Elements to improve your photo images. Bring a bag
+lunch and a digital camera to camp each day.
+ CES 3669
+1 week
+Sec. 939831
+$275
+ MTWRF
+HS340
+Aug 12
+9 am-3 pm
+Staff
+ Become A Potter!: Grades 5 & 6
+ Pinch, coil, roll, slam and twist your way into making clay-art!
+Learn studio courtesy and safety, and how to mix and use
+different types of clay. Explore hand-building and firing methods
+and find out lots of ways to decorate and glaze your pieces.
+Enjoy a whole week to plan, make and finish your own ceramic
+treasure. Note: Due to firing and glazing, the majority of your
+projects will not be available until two - three weeks after camp;
+you will receive an email when they are ready.
+CES 3633
+1 week
+Sec. 939855
+$275
+ MTWRF
+F410
+July 8
+9 am-3 pm
+Staff
+ 1 week
+Sec. 939836
+MTWRF
+F410
+July 15
+9 am-3 pm
+Staff
+ Chess - Get Your Game On: Grades 5 & 6
+ Get your chess game together as you learn to open, trap,
+strategize and do tactical maneuvers that will leave your
+opponents in the dust. Get amped up and take part in
+awesome competitions, tournaments and contests that will
+showcase your game. Go the chess distance!
+ CES 7336
+1 week
+Sec. 939811
+$249
+ MTWRF
+LA420
+July 15
+9 am-3 pm
+B. Wilson
+ 1 week
+Sec. 939866
+MTWRF
+LA420
+July 22
+9 am-3 pm
+B. Wilson
+ Kids Court: Grades 5 & 6
+ Discover the basics of the legal system, such as the roles
+of judges, lawyers, witnesses, and jurors. Learn how to
+research, prepare, and present a mock trial case with
+your teammates. Practice your public speaking, critical
+thinking, and teamwork skills in a supportive and friendly
+environment. Whether you want to be a lawyer, a judge, or
+just have fun with your friends, the Kids Court Camp will give
+you an unforgettable experience!
+ CES 7443
+1 week
+Sec. 939872
+$249
+ MTWRF
+LA100
+July 29
+9 am-3 pm
+E. Tamulewicz
+ Register your child for the grade level they will be entering in the fall.
+ GRADES 5 & 6
+ 11
+ PLEASE BRING A BAG LUNCH TO CAMPS EACH DAY
+734-462-4448 | SCHOOLCRAFT.EDU/KOC
+ GRADES 5 & 6
+ CAREER EXPLORATION & COMMUNICATION
+Camp Scrubs - Adventures
+in Medicine: Grades 5 & 6
+ Put on scrubs and enter the world of medicine. Learn about many
+fields in healthcare and what it takes to be a nurse, paramedic,
+test technician or a surgeon. Discover how to take a pulse and
+blood pressure and experience a state-of-the-art simulation lab.
+Learn about the real world of healthcare hands on.
+CES 4278  $279
+ 1 week MTWRF July 15 9 am-3 pm
+Sec. 939822 HS310  S. Garza
+ 1 week MTWRF July 22 9 am-3 pm
+Sec. 939859 HS310  S. Garza
+ The Great Debate: Grades 5 & 6
+ Do you often try to convince your friends that a certain sports
+team, flavor of ice cream or video game is THE best? Your
+friends may disagree with you, and you have to use specific
+examples to help defend your position. Learning how to debate
+means learning how to persuade someone into your way of
+thinking and influence future decision-making. If you want to
+know what it's like to possess the power of persuasion, join us
+for an exciting week of word wars and rebuttals. I challenge you!
+ CES 7399  $249
+ 1 week MTWRF July 29 9 am-3 pm
+Sec. 939890 LA360  N. Gordon-Hines
+ NEW Pokémon® Masters- Designers
+& 3D Makers Unite! Grades 5 & 6
+ Calling all PokeMasters who want to be the designers of the
+future! Use your Pokémon® imagination and bring your ideas to
+life. Begin by creating your own digital Pokémon®-style custom
+playing card game. Progress onto designing action figures,
+jewelry, and toys in professional-level modeling software.
+Learn how to prepare a model for 3D printing and create a
+design portfolio to showcase your work! No prior experience
+is necessary and 3D designs will be available on a password
+protected Black Rocket website to share with friends and family.
+ CES2 6481  $339
+ 1 week MTWRF July 29 9 am-3 pm
+Sec. 939810 HS340  S. Nakmura
+ 1 week MTWRF Aug 5 9 am-3 pm
+Sec. 939812 HS340  S. Nakmura
+ Register your child for the grade level they will be entering in the fall.
+ Make It Work!
+Structure & Design: Grades 5 & 6
+ Have you ever wondered how architects design buildings or how
+engineers develop structures? Roll up your sleeves and get
+ready to make an idea come to life. Design and build your own
+structure. Learn how to use mechanical design and drafting to
+develop prints and design an electrical circuit to integrate within
+a structure to make it work.
+ CES 8365  $249
+ 1 week MTWRF July 22 9 am-3 pm
+Sec. 939868 HS720  M. Batko
+ The Great Tween Writers Machine:
+Grades 5 & 6
+ Roar into summer! Get more comfortable as a writer and make a
+ton of new friends. Try your hand at different types of writing like
+autobiographies, circle stories, poetry, even news articles! Get
+into illustrating your works in new and creative ways. Have fun
+hanging with other tweens who love to write as much as you.
+CES 7334  $249
+ 1 week MTWRF July 22 9 am-3 pm
+Sec. 939835 LA330  L. Fundkian
+ Inventors Workshop: Grades 5 & 6
+ Television. Water Skis. Earmuffs. The popsicle. What do they
+have in common? All were invented by kids! Over 500,000
+kids and teens invent gadgets and games each year. Let your
+imagination run wild and ignite your spirit of inventiveness! As
+a group, take an idea from creation to the patent process to
+completion. Afterward…the sky is the limit!
+ CES 8543  $279
+ 1 week MTWRF July 8 9 am-3 pm
+Sec. 939802 LA140  AccelerateKID
+ 12
+PLEASE BRING A BAG LUNCH TO CAMPS EACH DAY
+ Roblox eSport Game Design: Grades 5-8
+ Construct and program an eSport game using Roblox Studio
+and the Lua Programming Language. Explore the virtual game
+back end, develop arenas and features, know the toolbox kit
+and build a capture the flag and personal arena for competition.
+Learn game design, computer programming, critical thinking,
+collaboration and communication skills. No game design or
+programming experience required.
+ CES2 6383  $359
+ 1 week MTWRF July 15 9 am-3 pm
+Sec. 939857 JC103  AccelerateKID
+ 1 week MTWRF Aug 12 9 am-3 pm
+Sec. 939803 JC103  AccelerateKID
+ Become a Tech Star!
+Minecraft Modders: Grades 5 & 6
+ Calling all future programmers and designers! The time is
+now to try this unique gaming experience. Using your favorite
+game, discover the basics of modding and the foundation of
+programming, learning scripting and logic statements, while
+you create your first mod. Experience coding taught through a
+simulated environment inspired by Minecraft. Note: students
+will work in pairs or teams for most of the day. To access your
+project at home you must own a PC/MAC version of Minecraft.
+This course is designed and developed by Black Rocket.
+ CES2 6289  $339
+ 1 week MTWRF July 8 9 am-3 pm
+Sec. 939808 HS210  T. Finklea
+ 1 week MTWRF Aug 12 9 am-3 pm
+Sec. 939867 HS210  T. Finklea
+ Digital Video Storytelling: Grades 5 & 6
+ In a production team, perfect the art of planning and producing
+digital video media projects. During this hands-on media production
+boot camp, student teams will create commercial advertisements
+and PSAs (public service announcements). Using an Apple iPad as
+a self-contained production studio, student-producers will develop
+scripts and storyboards; explore filming techniques; shoot their
+concept; and fine edit their project. Construct, deliver, and connect:
+our process and workflow strategies will take your digital video
+content and storytelling to the next level.
+ CES2 6320  $279
+ 1 week MTWRF Aug 5 9 am-3 pm
+Sec. 939896 LA110  J. Kaye
+ GRADES 5 & 6
+ COMPUTERS/TECHNOLOGY
+ Add Before & After Care
+to your child’s schedule
+for a full day of fun on campus!
+SEE PAGE 3!
+ HAVE QUESTIONS?
+Check out our
+KOC Parent Handbook
+ SCHOOLCRAFT.EDU/KOC
+ Digital Art - Get Wired: Grades 5 & 6
+ Go way beyond paint brushes, crayons and colored pencils
+and work with the newest artform, digital art. Create your own
+masterpieces using basic software including Adobe Photoshop
+Elements and online tools. Start by learning design and art
+elements while improving your computer skills and stretching
+your creative horizons. Push your limits as you bring your own
+existing photos to an extreme level of art using collage, digital
+enhancement, layering and more!
+ CES 3702  $249
+ 1 week MTWRF July 15 9 am-3 pm
+Sec. 939837 HS210  P. Marabeas
+ 1 week MTWRF July 22 9 am-3 pm
+Sec. 939869 HS210  P. Marabeas
+ Stop Motion Animation: Grades 5 & 6
+ Use LEGOS® to tell your story, complete with music, special
+effects and all your favorite LEGO® characters. Plan, script,
+stage, shoot, and produce your own mini-movie using Stop
+Motion Animation. Working as a team, students will use LEGO®
+components to build the set and props, then shoot their movie.
+Movie-making software will be used to add special effects,
+titles, credits and more. Each camper takes home a copy of
+their movie.
+ CES 3835  $275
+ 1 week MTWRF Aug 12 9 am-3 pm
+Sec. 939848 LA140  C. Eagling
+ Web Magic: Grades 5 & 6
+ Learn tools and tricks to build your own Web page, and the ins
+and outs of posting it on the Web. Try your hand at the basics
+of animation. Discover how to build basic graphics, film clips
+and short animations for your Web page. Create an awesome
+website that will wow your classmates and family! Prerequisite:
+basic computer skills. Bring headphones or ear buds to class.
+ CES2 6131  $249
+ 1 week MTWRF July 22 9 am-3 pm
+Sec. 939840 HS330  G. Jones
+ 13 13
+SCIENCE
+ Geology Rocks!: Grades 5 & 6
+ Dig into the fascinating world of Geology. Explore topics such as
+minerals, rocks and fossils, plate tectonics, topographic maps
+and more. Investigate geologic hazards such as landslides and
+volcanoes. Have fun, get your hands dirty and become a rock
+hound in this hands-on camp!
+ CES 8544
+1 week
+Sec. 939865
+MTWRF
+F350
+Aug 12
+$249
+ 9 am-3 pm
+Staff
+ ZooCrew - Take A Walk
+on the Wild Side: Grades 5 & 6
+ Get an insider's look into the amazing world of animals and
+their various ecosystems. Using the scientific method you'll do
+outdoor studies, pond collections, fun labs and cool projects.
+Enjoy a visit from a variety of live animals. Note: all activities
+with animals will be closely supervised.
+CES 8514
+1 week
+GRADES 5 & 6
+ 3-D Video Game & Animation:
+Grades 5 & 6
+ $279
+ MTWRF
+July 15
+9 am-3 pm
+Sec. 939847
+Go beyond the limits of 2-D game design! Learn the physics
+behind 3-D games, exploring beginner event scripting, level
+design, controlling flow of gameplay and storytelling. Go to the
+next level by creating and animating your own character sprites,
+objects, and backgrounds. Finish with a fully animated character
+to be used in your very own game. Note: no prior experience
+in game design, animation or sketching needed. Students will
+work in pairs or teams for most of the program. Created games
+will be available on a password protected Black Rocket website
+to share with family and friends. Returning students can create
+more advanced projects that build on previous years. Games
+are only compatible on PC computers.
+ CES2 6339
+$339
+ HS740
+Rev Up a Robot: Grades 5 & 6
+ 1 week
+Sec. 939826
+MTWRF
+HS330
+July 15
+9 am-3 pm
+G. Jones
+ 1 week
+Sec. 939838
+MTWRF
+HS210
+July 29
+9 am-3 pm
+T. Finklea
+ MATH
+ D. Craig
+ Robots are sweeping the world. They can be found in
+factories, the military, in space exploration, transportation
+and medicine. The possible uses are mind-boggling and
+never-ending. Learn how to dream up, design, construct and
+program a robot using LEGO® Mindstorms NXT and/or EV3.
+Enjoy the fun of being part of a robotics pit crew that gets a
+robot's motor running.
+ CES 8462
+1 week
+Mathbusters!: Grades 5 & 6
+ Sec. 939844
+$279
+ MTWRF
+HS600
+July 8
+9 am-3 pm
+V. Batko
+ No challenge is too great for mathbusters! Take math on with
+a vengeance as you dig in and play games, solve riddles and
+complete spine-tingling experiments. Use math skills like
+probability, statistics, story problems and graphing to determine
+if the math problem is confirmed, plausible or busted!
+CES 8458
+1 week
+Sec. 939852
+$249
+ MTWRF
+LA330
+July 15
+9 am-3 pm
+Staff
+ Add Before & After Care
+to your child’s schedule
+for a full day of fun on campus!
+SEE PAGE 3!
+ 14
+ 1 week
+Sec. 939845
+MTWRF
+HS600
+July 15
+9 am-3 pm
+V. Batko
+ 1 week
+Sec. 939846
+MTWRF
+HS600
+July 22
+9 am-3 pm
+V. Batko
+ 1 week
+Sec. 939880
+MTWRF
+HS600
+July 29
+9 am-3 pm
+V. Batko
+ 1 week
+Sec. 939891
+MTWRF
+HS600
+Aug 5
+HAVE QUESTIONS?
+Check out our
+KOC Parent Handbook
+ 9 am-3 pm
+V. Batko
+ SCHOOLCRAFT.EDU/KOC
+ 734-462-4448 | SCHOOLCRAFT.EDU/KOC
+ARTS & CULTURE
+ Bakers Academy: Grades 7, 8 & 9
+ If baking is your passion, take five days and join the Baking
+Academy. Raise your baking skill level no matter where your
+skills are currently. Begin with basic sanitation and baking
+skills. Once mastered, you'll prepare a scrumptious variety of
+pies, cookies, breads, muffins, coffee cake, French croissants
+and brioche! Take home a new creation daily impressing
+your family with your new skills. No experience necessary.
+A chef coat will be provided along with a drink and dessert.
+Requirements: bring a tool kit with the following: a paring and
+chef knife, peeler, heat proof spatula and measuring spoons.
+Wear long pants and comfortable, closed-toe shoes; long hair
+should be tied back.
+KOC Culinary camps are very intensive.
+ CES 2510
+1 week
+Sec. 939249
+MTWRF
+VT645
+Aug 5
+$349
+ 9 am-3 pm
+J. Gabriel, CMC
+ Vegetarian Cooking: Grades 7, 8 & 9
+ Even if you do not eat vegetarian, meatless meals, snacks,
+desserts, and side dishes are great options for something
+different. Enjoy creating enticing vegetarian meals like
+meat-free pizza, burgers, soups and more, using fresh,
+high-quality ingredients. Dive into a world of new fruits and
+vegetables expanding your palette, discovering firsthand
+how satisfying and flavorful vegetarian dishes can be. Bring
+a bag lunch to camp each day.  A chef coat will be provided.
+Requirements: bring a tool kit with the following: a paring
+and chef knife, peeler, heatproof spatula and measuring
+spoons. Wear long pants and comfortable, closed-toe shoes;
+long hair should be tied back.
+KOC Culinary camps are very intensive.
+ CES 2586
+1 week
+Sec. 939256
+MTWRF
+VT645
+July 29
+$349
+ 9 am-3 pm
+A. Sayes, CMC
+ The Potter's Studio: Grades 7, 8 & 9
+ Let your creativity explode! Learn studio courtesy and safety,
+and then how to design and make ceramic pieces using the
+pinch, coil and slab techniques. When you're ready, try your
+hand at working on the potter's wheel. Whether you've ever tried
+ceramics or not, the Potter's Studio is the place for you to get
+into this awesome means of expression and show the world
+what you're all about! Note: Due to firing and glazing the majority
+of your projects will not be available until two-three weeks after
+camp; you will receive an email when they are ready.
+CES 3635
+1 week
+Sec. 939234
+$279
+ MTWRF
+F410
+July 22
+9 am-3 pm
+Staff
+ 1 week
+Sec. 939267
+MTWRF
+F410
+Aug 5
+9 am-3 pm
+Staff
+ Register your child for the grade level they will be entering in the fall.
+ GRADES 7, 8 & 9
+ 15
+ PLEASE BRING A BAG LUNCH TO CAMPS EACH DAY
+734-462-4448 | SCHOOLCRAFT.EDU/KOC
+ The Art Cafe: Grades 7, 8 & 9
+ Are you passionate about art and want to escape to a place
+where you can create more? Come to the Art Cafe. Learn by
+doing as you try your hand at different styles and techniques
+using a variety of mediums such as painting with watercolors
+and acrylics, and print techniques using ink. Enjoy the laid-back,
+comfortable atmosphere where you can create, create, create!
+ CES 3602  $249
+ 1 week MTWRF July 15 9 am-3 pm
+Sec. 939277 F470  M. Pircer
+ 1 week MTWRF July 29 9 am-3 pm
+Sec. 939272 F470  M. Pircer
+ NEW Song Studio: Grades 7-9
+ Do you love music and want to learn how to write your own songs?
+Join us for an exciting camp where you will explore the basics of
+melody, harmony, lyrics, and rhythm. You will also learn how to use
+some of the best free songwriting tools online. Complete at least
+one original song that you can be proud of. Unleash your musical
+potential and have fun along the way. No experience needed.
+CES 3847  $249
+ 1 week MTWRF July 29 9 am-3 pm
+Sec. 939241 JC127  B. Chenoweth
+ 1 week MTWRF Aug 5 9 am-3 pm
+Sec. 939242 JC127  B. Chenoweth
+ Anime & Manga Drawing: Grades 7, 8 & 9
+ Draw your favorite characters and create new anime and
+manga style characters. Use different styles and techniques
+for creating characters up close and in motion. Create finished
+renderings while exploring tone, shading, dimension, proportion
+and more. Students will be encouraged to share their drawings.
+ CES 3820  $249
+ 1 week MTWRF July 15 9 am-3 pm
+Sec. 939230 LA100  E. Tamulewicz
+ 1 week MTWRF July 22 9 am-3 pm
+Sec. 939227 LA100  E. Tamulewicz
+ Curtain Call: Honing Your
+Acting Skills: Grades 7-9
+ Act in an inspiring and friendly environment. Discover how
+to tell a story with ensemble building games, improv, script
+analysis, monologues, scene work, rehearsal and performance
+tools. Collaborate with fellow actors and work towards a final
+production to be performed for family and friends. For novice
+and experienced performers.
+ CES 3771  $249
+ 1 week MTWRF July 8 9 am-3 pm
+Sec. 939243 LA440  K. Glatz
+ Chess - Capture the King: Grades 7, 8 & 9
+ Become lord of the board and take your chess game to the next
+level. Analyze, strategize and maneuver your way into taking
+down your opponents while learning popular chess opening
+moves, how to adapt to your opponent's moves, and the art
+of setting tactical traps. Through lecture and practice games,
+rev up your game and then advance to competitions and
+tournaments. Note: Students must have a basic knowledge of
+chess to participate.
+CES 7425  $249
+ 1 week MTWRF July 29 9 am-3 pm
+Sec. 939233 LA420  B. Wilson
+ 1 week MTWRF Aug 12 9 am-3 pm
+Sec. 939239 LA420  B. Wilson
+ Digital Photography - Let Loose
+& Experience It!: Grades 7, 8 & 9
+ Digital photography is hot - get in on the fun! Discover exactly
+what you'll need to know to capture those parties, school
+events, sleepovers and family vacations. Every important
+question gets an easy-to-understand answer: What is resolution
+and why does it matter? How can I make computers, scanners,
+and printers work with my camera? Start by learning camera
+basics. Go on daily photo shoots. Then dive into Photoshop
+Elements and enhance your photos. Bring a digital camera to
+camp each day.
+ CES 3680  $249
+ 1 week MTWRF July 29 9 am-3 pm
+Sec. 939260 HS330  Staff
+ GRADES 7, 8 & 9
+ Register your child for the grade level they will be entering in the fall.
+ 16
+PLEASE BRING A BAG LUNCH TO CAMPS EACH DAY
+ CAREER EXPLORATION COMMUNICATION
+The Great-er Debate: Grades 7, 8 & 9
+ Should homework be banned? Are sports stars paid too much?
+Is social media helping or hurting our society? You might be
+brooding over these issues, but don't know how to express your
+opinion to others. Gain the skills to confidently argue either
+side of the debate. Work with a team of like-minded students to
+strategize, mobilize and mesmerize - wow your family and friends
+with word wizardry. Who knows, by the end of the week, you might
+even be able to convince your parents to raise your allowance!
+CES 7412  $249
+ 1 week MTWRF July 22 9 am-3 pm
+Sec. 939284 LA360  N. Gordon-Hines
+ GRADES 7, 8 & 9
+ 3-D Printing & Design: Grades 7, 8 & 9
+ How cool would it be to turn an idea into reality? Following
+the same process as an industrial designer - read blueprints,
+draw and sketch an image, add dimensions; and turn an idea
+into a 3-D model using Tinker cad. Then bring the idea to life
+with a 3-D printer. Come with your imagination and ideas and
+create a real life prototype! Class meets at the Manufacturing
+& Engineering Center, 13001 Merriman Rd., Livonia, MI 48150.
+Due to the printing time, projects will be available two to
+three weeks after the camp ends. An e-mail will be sent
+when they are ready for pick up.
+ CES2 6341  $279
+ 1 week MTWRF July 8 8:30 am-2:30 pm
+Sec. 939257 MEC120  A. Williams
+ 1 week MTWRF July 15 8:30 am-2:30 pm
+Sec. 939258 MEC120  A. WIlliams
+ Camp Scrubs - Adventures
+in Medicine: Grades 7, 8 & 9
+ Put on scrubs and enter the world of medicine. Learn about many
+fields in healthcare and what it takes to be a nurse, paramedic,
+test technician or a surgeon. Discover how to take a pulse
+and blood pressure, start an I.V. and become first aid and CPR
+certified. Learn about the real world of healthcare hands on.
+CES 4290  $279
+ 1 week MTWRF July 8 9 am-3 pm
+Sec. 939283 HS310  S. Garza
+ 1 week MTWRF July 29 9 am-3 pm
+Sec. 939280 HS310  S. Garza
+ 1 week MTWRF Aug 5 9 am-3 pm
+Sec. 939254 HS310  S. Garza
+ Make It Work! Structure
+& Design: Grades 7, 8 & 9
+ Have you ever wondered how architects design buildings
+or how engineers develop structures? Roll up your sleeves
+and get ready to make an idea come to life. Design and build
+your own structure. Learn how to use mechanical design and
+drafting to develop prints and design an electrical circuit to
+integrate within a structure to make it work.
+ CES 8470  $249
+ 1 week MTWRF July 29 9 am-3 pm
+Sec. 939286 HS720  Staff
+ 1 week MTWRF Aug 5 9 am-3 pm
+Sec. 939275 HS720  Staff
+ Ignite Your Firefighter Power: Grades 7-12
+ Take advantage of this once-in-a-lifetime opportunity to become a
+real firefighter for an entire week! Work in a fire training facility with
+all the tools, equipment, gear, simulators and vehicles that our
+Fire Academy students use on a daily basis. Consider it a sneak
+peek into a future career choice, or just gain a greater appreciation
+for what it means to "answer the call." Either way, it is sure to
+"spark" your interest! Note: Wear flat, closed-toe/heeled shoes (no
+sandals). Camp activities take place both at Schoolcraft's Livonia
+Campus and Fire Training Facility. Transportation to and from the Fire
+Training Facility is provided. Bring a bag lunch to camp each day.
+ CES2 0005  $299
+ 1 week MTWRF Aug 5 9 am-3 pm
+Sec. 939231 LA230  Staff
+ Teen Writers Inc.: Grades 7, 8 & 9
+ Spend time with other teens who love to write as much as you
+do. Define and fine tune your own writing process while enjoying
+free writing time, peer editing and some computer illustration
+opportunities. Write both narratives and poetry focusing on
+character, plot, theme and scene development. Get down to
+business and become a writer extraordinaire!
+ CES 7335  $249
+ 1 week MTWRF July 22 9 am-3 pm
+Sec. 939269 BTC300  C. Ridley
+ 17
+COMPUTERS/TECHNOLOGY
+ 3-D Game Design with Unity: Grades 7, 8 & 9
+ Are you ready to take your game design skills to another
+level? With Unity, an industry-grade design software, aspiring
+game designers will learn level editing, 3-D modeling,
+impactful gameplay creation, as well as how to utilize scripts
+and variables. Student-created games will be available on a
+password protected Black Rocket website to share with friends
+and family. Students will work in pairs or teams for most of
+the program. Returning students can create more advanced
+projects that build on previous years.
+ CES2 6379
+1 week
+Sec. 939268
+$339
+ MTWRF
+HS330
+Aug 5
+9 am-3 pm
+G. Jones
+ Creating Code with Python: Grades 7, 8 & 9
+ Are you ready to move beyond "drag and drop designs?"
+Learning to code is the key to opening your programming
+potential. Coding is used for everything from games, animation,
+websites and more. Learn Python, a general purpose coding
+language that allows you to express contents with just a few
+lines of code! Requirement: Students should be comfortable
+using a computer, navigating the Internet, and managing files.
+Some experience with coding including programs such as
+Scratch and Alice is helpful but not required.
+ CES2 6263
+1 week
+Sec. 939273
+MTWRF
+JC113
+$249
+ July 15
+9 am-3 pm
+Staff
+ Be the Next Social Media Sensation:
+Grades 7, 8 & 9
+ GRADES 7, 8 & 9
+ Perfect the art of planning and producing digital video media
+projects for social media, including YouTube®. Learn to create
+videos that your audience will relate to and produce high-quality
+digital video content. Understand the do's and don't of several
+social media platforms while developing your media personality.
+Use your cell phone and an Apple iPad as a self-contained
+production studio. Student producers will develop scripts,
+explore filming techniques, shoot their concept, and fine edit
+their projects. Walk away with the skills needed to be the next
+YouTube® star.
+ CES2 6378
+1 week
+Sec. 939246
+MTWRF
+LA110
+July 15
+$279
+ 9 am-3 pm
+J. Kaye
+ Minecraft Modders: Grades 7, 8 & 9
+ Interested in programming and designing? Try this unique
+gaming experience. Using your favorite game, learn the basics
+of modding and the fundamentals of programming, learning
+scripting and logic statements while you create your first mod.
+Experience coding taught through a simulated environment
+inspired by Minecraft. Note: Students will work in pairs or
+teams for most of the day. To access your project at home
+you must own a PC/MAC version of Minecraft. This course is
+designed and developed by Black Rocket.
+ CES2 6290
+1 week
+Sec. 939235
+$339
+ MTWRF
+HS330
+Aug 12
+9 am-3 pm
+S. Nakamura
+ JavaScript: Grades 7, 8 & 9
+ Explore programming as a career path with JavaScript. Through
+practical projects JavaScript is used to code solutions for real
+world programming needs. Boost your critical thinking and
+problem-solving skills.
+ CES2 6471
+1 week
+Sec. 939262
+MTWRF
+JC113
+July 22
+Web Design: Grades 7, 8 & 9
+ $319
+ 9 am-3 pm
+Staff
+ Learn how to design your own Web page and the ins and
+outs of posting it on the Web. Try your hand at the basics of
+animation. Discover how to build basic graphics, film clips
+and short animations - the building blocks for your Web page.
+Impress everyone with your newly created Web page! Bring
+headphones or ear buds to class.
+ CES2 6132
+1 week
+Sec. 939264
+Add Before & After Care
+to your child’s schedule
+for a full day of fun on campus!
+SEE PAGE 3!
+ 18
+ $249
+ MTWRF
+HS330
+July 8
+9 am-3 pm
+G. Jones
+ 734-462-4448 | SCHOOLCRAFT.EDU/KOC
+PLEASE BRING A BAG LUNCH TO CAMPS EACH DAY
+ GRADES 7, 8 & 9
+ SCIENCE
+ Robotics for Teens: Grades 7, 8 & 9
+ Robots are used in everything from building cars to space
+travel. Discover the principles of real robotic engineering as
+you help dream up, design, build and program a robot using
+LEGO® Mindstorms NXT and/or EV3. Learn about electrical
+and mechanical engineering as you perform different robot
+experiments. Examine the history of robotics and find out how
+robots compete. Have fun and experience being part of a teen
+robotics team.
+ CES 8465  $279
+ 1 week MTWRF July 8 9 am-3 pm
+Sec. 939253 HS830  P. Marabeas
+ 1 week MTWRF July 15 9 am-3 pm
+Sec. 939265 HS830  T. Finklea
+ 1 week MTWRF July 22 9 am-3 pm
+Sec. 939289 HS830  T. Finklea
+ 1 week MTWRF July 29 9 am-3 pm
+Sec. 939290 HS830  P. Marabeas
+ 1 week MTWRF Aug 5 9 am-3 pm
+Sec. 939292 HS830  P. Marabeas
+ Register your child for the grade level they will be entering in the fall.
+ HAVE QUESTIONS?
+Check out our
+KOC Parent Handbook
+ SCHOOLCRAFT.EDU/KOC
+ Myth Busters Science: Grades 7,8 & 9
+ Unravel the mysteries of modern science as a member of a
+scientific investigation team. You'll help pull apart and uncover
+the truth like on TV's popular show MythBusters. Your team
+will choose a science myth to test. You'll design investigations,
+choose experiments, test theories and do data analysis. On the
+final day your team will lay it all out - confirmed or busted!
+ CES 8466  $249
+ 1 week MTWRF July 15 9 am-3 pm
+Sec. 939237 F270  Staff
+ Genetics & You!: Grades 7, 8 & 9
+ What is more interesting than you? Understand the fundamentals
+of genetics including the role of DNA in your body. Participate in
+hands-on activities such as building model systems using candy
+and extracting strawberry DNA. Engage in lab activities to explore
+the molecular and organismal aspects of inheritance. Discover
+how genetics influences your appearance and health, and how the
+environment can shape it as well.
+ CES 8558  $279
+ 1 week MTWRF July 22 9 am-3 pm
+Sec. 939232 F270  Staff
+ Bio/Chem - One World: Grades 7, 8 & 9
+ The world around you is a humungous science lab waiting to
+happen. Look closely at everyday things and discover how their
+chemical and biological makeup defines them. Through information
+sharing and exciting labs you'll see science in a whole new light.
+Don't worry if you are not really experienced with science, the class
+is flexible and may be adjusted to suit any range of abilities.
+ CES 8468  $249
+ 1 week MTWRF July 8 9 am-3 pm
+Sec. 939236 F270  M. Gradinscak
+ 1 week MTWRF Aug 12 9 am-3 pm
+Sec. 939291 F270  M. Gradinscak
+ Zoology That Rocks!: Grades 7, 8 & 9
+ Dive into the science that covers everything animal, from
+microscopic investigation to comparative studies of animal
+anatomy, physiology and genetics, behavior and environmental
+concerns. The focus is on hands-on fun, wildlife, and the
+outdoors through participation. Note: All activities with animals
+will be closely supervised.
+ CES 8518  $279
+ 1 week MTWRF July 22 9 am-3 pm
+Sec. 939238 HS740  D. Craig
+ 19
+ARTS & SCIENCE
+ NEW Bakers Workshop: Grades 10-12
+ Do you love baking and want to learn new skills and recipes?
+Then join our baking camp! Our baking camp is a fun and
+educational program that will teach you how to bake various
+types of cakes, cookies, pies, breads, and more. You will learn
+from professional chefs who will guide you through the basics
+of baking, such as measuring, mixing and kneading. Each day
+you will bring home delicious items to share with your family.
+A chef coat will be provided along with a drink and dessert.
+Requirements: bring a tool kit with the following: a paring
+and chef knife, peeler, heat proof spatula and measuring
+spoons. Wear long pants and comfortable, closed-toe shoes;
+long hair should be tied back. Note: KOC Culinary camps
+are very intensive.
+ Fashion Design & Illustration: Grades 9-12
+ Define your design identity, art form and brand identity. Learn
+the basics of fashion illustration and design including drawing
+techniques of the human figure. Explore different methods such
+as using pencil, markers, watercolors and paint. Create a mood
+board, develop a theme for your collection, prepare a portfolio
+and more!
+ CES 3839
+1 week
+Sec. 939245
+$249
+ MTWRF
+F370
+July 8
+9 am-3 pm
+M. Williams
+ Welding Techniques &
+Unique Art: Sophomore - Senior
+ CES 2725
+GRADES 9, 10, 11 & 12
+ 1 week
+Sec. 939240
+$349
+ MTWRF
+VT630
+July 22
+9 am-3 pm
+J. Gabriel, CMC
+ NEW Microscopy - Exploring the Invisible
+World: Grades 9-12
+ Visit a mysterious invisible world using unparalleled
+microscopic technologies. In Schoolcraft’s renowned Imaging
+Lab, which houses the college’s state-of-the-art Scanning
+Electron Microscope learn how to operate a compound light
+microscope, stereo dissecting microscope and the college's
+very own Scanning Electron Microscope! Capture and save your
+discoveries using digital cameras and even print a poster of
+your favorite image to take home.
+ CES 8564
+1 week
+Sec. 939228
+$319
+ MTWRF
+BTC175
+July 29
+9 am- 3 pm
+M. Gury
+ Ceramic Arts: Sophomore - Senior
+ In a professional ceramics studio explore the numerous
+possibilities clay has to offer such as: hand building, sculpting,
+decorating, glazing and wheel throwing. Whether you have tried
+ceramics or not, this is the place for you to experience this
+awesome art form and show the world what you're all about!
+Note: Due to firing and glazing the majority of your projects
+will not be available until two - three weeks after camp; you will
+receive an email when they are ready.
+ CES 3753
+1 week
+Sec. 939248
+$279
+ MTWRF
+F410
+July 29
+9 am-3 pm
+Staff
+ Learn the skills and process of welding. Begin by learning
+the basic safety skills and knowledge of metal welding and
+fabrication. Understand the basics of MIG, TIG, Stick & Oxy
+acetylene welding methods, as well as other fabrication
+techniques. Once you have some skills developed, showcase
+them by creating a metal art sculpture. For safety reasons wear
+closed-toe shoes, a 100 percent cotton or natural fiber long
+sleeved shirt and long pants. Please, no synthetic clothing.
+Additional safety equipment will be provided.
+CES 3687
+1 week
+Sec. 939229
+MTWRF
+MEC130
+Aug 5
+$279
+ 8:30 am-2:30 pm
+D. Stuart
+ HAVE QUESTIONS?
+Check out our
+KOC Parent Handbook
+ SCHOOLCRAFT.EDU/KOC
+
